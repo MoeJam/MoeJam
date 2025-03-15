@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoeJam
+- 👋 Hi, I’m @MoeJam or Jammy
 - 👀 I’m interested in Games, Anime, Drums, Drawing, Coding
 - 🌱 I’m currently learning Python and Godot
 - 💞️ I’m looking to collaborate on ... idk, I'm shy (haha)
